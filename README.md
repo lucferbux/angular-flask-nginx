@@ -28,6 +28,10 @@
 * **Backend:** Flask server with Redis & Celery for background processing.
 * **Frontend:** Angular web app with control over POST notifications + Firebase integration.
 
+## API
+
+* The specification of the api is in [this swagger](https://app.swaggerhub.com/apis/lucferbux3/FlaskTemplate/1.0.0)
+
 ## Walkthrough
 
 * **Swagger**: A [Swagger specification](https://app.swaggerhub.com/apis/lucferbux/yvh_api/1.0.0) is live in this url, you can check the communication described bellow  **TODO: CHANGE**
