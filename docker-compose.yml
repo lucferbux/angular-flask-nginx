@@ -47,8 +47,8 @@ services:
   mongodb:
     image: mongo:latest
     container_name: "mongodb"
-    volumes:
-      - /data/db:/data/db
+    # volumes:
+    #   - /data/db:/data/db
     ports:
       - 27017:27017
     command: mongod
